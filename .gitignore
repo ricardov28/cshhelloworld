@@ -1,7 +1,6 @@
 # .NET Core
 ## Build results
-# 
-The .gitignore file is used to specify which files and directories should be ignored by Git and not be tracked in the version control system. Here's an example of a typical .gitignore file for an ASP.NET Core project:
+# The .gitignore file is used to specify which files and directories should be ignored by Git and not be tracked in the version control system. Here's an example of a typical .gitignore file for an ASP.NET Core project:
 
 [Dd]ebug/
 [Rr]elease/
